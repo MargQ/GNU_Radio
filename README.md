@@ -7,7 +7,7 @@ git clone --recursive https://github.com/gnuradio/volk.git
 cd volk
 mkdir build
 cd build
-``
+```
 
 По умолчанию после установки Volk будет находится в этом пути /usr/local/bin
 
