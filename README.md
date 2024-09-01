@@ -28,7 +28,7 @@ git clone https://github.com/gnuradio/gnuradio.git
 cd gnuradio
 
 ```
-Переходим с главной ветки на на версию 3.10.11:
+Переходим с главной ветки на версию 3.10.11:
 
 ```
 git checkout maint-3.10
